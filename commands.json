@@ -1,7 +1,5 @@
 {
   "commands": [
-    {
-      "commandName" : "cp"
-    }
+    "cp"
   ]
 }
